@@ -1,0 +1,6 @@
+c:\users\vítor lemos\documents\visual studio 2017\Projects\ArvoreBinaria_AulaEstruturaDeDados\ArvoreBinaria_AulaEstruturaDeDados\obj\Debug\ArvoreBinaria_AulaEstruturaDeDados.csprojResolveAssemblyReference.cache
+c:\users\vítor lemos\documents\visual studio 2017\Projects\ArvoreBinaria_AulaEstruturaDeDados\ArvoreBinaria_AulaEstruturaDeDados\bin\Debug\ArvoreBinaria_AulaEstruturaDeDados.exe.config
+c:\users\vítor lemos\documents\visual studio 2017\Projects\ArvoreBinaria_AulaEstruturaDeDados\ArvoreBinaria_AulaEstruturaDeDados\bin\Debug\ArvoreBinaria_AulaEstruturaDeDados.exe
+c:\users\vítor lemos\documents\visual studio 2017\Projects\ArvoreBinaria_AulaEstruturaDeDados\ArvoreBinaria_AulaEstruturaDeDados\bin\Debug\ArvoreBinaria_AulaEstruturaDeDados.pdb
+c:\users\vítor lemos\documents\visual studio 2017\Projects\ArvoreBinaria_AulaEstruturaDeDados\ArvoreBinaria_AulaEstruturaDeDados\obj\Debug\ArvoreBinaria_AulaEstruturaDeDados.exe
+c:\users\vítor lemos\documents\visual studio 2017\Projects\ArvoreBinaria_AulaEstruturaDeDados\ArvoreBinaria_AulaEstruturaDeDados\obj\Debug\ArvoreBinaria_AulaEstruturaDeDados.pdb
